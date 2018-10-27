@@ -1,0 +1,15 @@
+.header{
+    background-color: #294D95;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    box-shadow: 2px 2px 0px 2px #1D428A;
+    margin-bottom: 70px;
+}
+.logo {
+    box-sizing: content-box;
+    width: 70px;
+    height: 50px;
+    padding-left: 40px;
+    margin-right: auto;
+}

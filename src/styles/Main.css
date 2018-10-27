@@ -1,0 +1,12 @@
+section{
+    background-color: aqua;
+    border: 3px solid #CCC;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #888;
+    display: flex;
+}
+.main{
+    min-width: 750px;
+    max-width: 900px;
+    margin: auto;
+}
